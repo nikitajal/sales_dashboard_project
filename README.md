@@ -35,10 +35,18 @@ sales_dashboard_project/
 
 
 ## How to Run
-1. Execute `schema.sql` in MySQL
-2. Execute `insert_data.sql` in MySQL
-3. Run `export_data.py` → exports cleaned sales data to CSV
-4. Open `dashboard.twb` in Tableau
+
+1. **Set up the database**  
+   - Open MySQL and execute `sql/schema.sql` to create the tables.  
+   - Execute `sql/insert_data.sql` to insert the sample data.  
+
+2. **Export data for Tableau**  
+   - Run `python/export_data.py` to generate `data/sales_analysis_clean.csv`.  
+   - This script fetches data from MySQL (or the `sales_analysis_view`) and prepares it for Tableau.  
+
+3. **Open Tableau dashboard**  
+   - Open `tableau/dashboard.twb` in Tableau.  
+   - Connect it to `sales_analysis_clean.csv` to visualize KPIs, charts, and trends.
 
 
 ## 📊 Key Insights
