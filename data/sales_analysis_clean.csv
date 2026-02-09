@@ -1,0 +1,29 @@
+order_id,order_date,customer_id,customer_name,product_name,category,quantity,unit_price,revenue,order_status,month
+101,2023-07-01,1,Alice,Laptop,Electronics,1,800.0,800.0,Completed,2023-07
+102,2023-07-02,2,Bob,Phone,Electronics,2,500.0,1000.0,Completed,2023-07
+103,2023-07-03,3,Charlie,Headphones,Electronics,1,150.0,150.0,Completed,2023-07
+105,2023-07-05,5,Emma,T-shirt,Fashion,3,25.0,75.0,Completed,2023-07
+106,2023-07-06,6,Frank,Watch,Accessories,1,200.0,200.0,Completed,2023-07
+107,2023-07-07,7,Grace,Backpack,Accessories,2,75.0,150.0,Completed,2023-07
+108,2023-07-08,8,Hannah,Tablet,Electronics,1,400.0,400.0,Completed,2023-07
+109,2023-07-09,9,Ivy,Keyboard,Electronics,2,60.0,120.0,Completed,2023-07
+110,2023-07-10,10,Jack,Mouse,Electronics,3,40.0,120.0,Completed,2023-07
+111,2023-07-11,11,Kevin,Desk Chair,Furniture,1,250.0,250.0,Completed,2023-07
+112,2023-07-12,12,Laura,Monitor,Electronics,1,300.0,300.0,Completed,2023-07
+113,2023-07-13,13,Mike,Printer,Electronics,1,180.0,180.0,Completed,2023-07
+115,2023-07-15,15,Oscar,Sneakers,Fashion,2,90.0,180.0,Completed,2023-07
+116,2023-07-16,16,Paul,Water Bottle,Accessories,3,20.0,60.0,Completed,2023-07
+117,2023-07-17,17,Queen,Sofa,Furniture,1,900.0,900.0,Completed,2023-07
+118,2023-07-18,18,Robert,Desk,Furniture,1,350.0,350.0,Completed,2023-07
+119,2023-07-19,19,Sarah,Lamp,Furniture,2,45.0,90.0,Completed,2023-07
+120,2023-07-20,20,Tom,Book,Stationery,5,15.0,75.0,Completed,2023-07
+121,2023-07-21,21,Uma,Notebook,Stationery,4,10.0,40.0,Completed,2023-07
+122,2023-07-22,22,Victor,Pen,Stationery,10,3.0,30.0,Completed,2023-07
+123,2023-07-23,23,Wendy,Smart Watch,Electronics,1,250.0,250.0,Completed,2023-07
+124,2023-07-24,24,Xavier,Camera,Electronics,1,650.0,650.0,Completed,2023-07
+125,2023-07-25,25,Yara,Tripod,Accessories,1,85.0,85.0,Completed,2023-07
+126,2023-07-26,26,Zack,Gaming Console,Electronics,1,500.0,500.0,Completed,2023-07
+127,2023-07-27,27,Aman,Controller,Electronics,2,60.0,120.0,Completed,2023-07
+128,2023-07-28,28,Bella,Headset,Electronics,1,120.0,120.0,Completed,2023-07
+129,2023-07-29,29,Chris,Office Chair,Furniture,1,300.0,300.0,Completed,2023-07
+130,2023-07-30,30,Daisy,Standing Desk,Furniture,1,450.0,450.0,Completed,2023-07
