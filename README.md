@@ -27,7 +27,7 @@ sales_dashboard_project/
 │   └── dashboard.twb
 │
 ├── screenshots/
-│   ├── dashboard_overview.png
+│   ├── dashboard_screenshot.png
 │   ├── KPI_section.png
 │   └── revenue_by_category.png
 │
