@@ -49,14 +49,14 @@ sales_dashboard_project/
    - Connect it to `sales_analysis_clean.csv` to visualize KPIs, charts, and trends.
 
 
-## 📊 Key Insights
+## Key Insights
 
 - Total Orders and Total Revenue provide a quick overview of sales performance.
 - Electronics category contributes the highest revenue.
 - Daily revenue trend shows how sales fluctuate over time.
 - Repeat customers indicate potential customer retention and loyalty.
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Dashboard Overview
 ![Dashboard Overview](Screenshots/dashboard_screenshot.png)
