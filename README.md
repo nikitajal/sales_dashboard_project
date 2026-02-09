@@ -51,11 +51,11 @@ sales_dashboard_project/
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ### Key KPIs
-![KPIs](screenshots/KPI_section.png)
+![KPIs](Screenshots/KPI_section.png)
 
 ### Revenue by Category
-![Revenue by Category](screenshots/revenue_by_category.png)
+![Revenue by Category](Screenshots/revenue_by_category.png)
 
