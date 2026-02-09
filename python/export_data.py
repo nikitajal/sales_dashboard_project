@@ -19,7 +19,7 @@ import pandas.io.sql as psql  # fallback for read_sql_query
 conn = mysql.connector.connect(
     host='localhost',       
     user='root',         
-    password='$N@omi11',
+    password='here_i_edited_password',
     database='ecommerce_db' 
 )
 
