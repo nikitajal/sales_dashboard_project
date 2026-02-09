@@ -59,3 +59,4 @@ sales_dashboard_project/
 ### Revenue by Category
 ![Revenue by Category](Screenshots/revenue_by_category.png)
 
+Note: This is a demo project with sample data for portfolio purposes. All data is fictitious.
