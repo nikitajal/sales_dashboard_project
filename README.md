@@ -51,7 +51,7 @@ sales_dashboard_project/
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_screenshot.png)
 
 ### Key KPIs
 ![KPIs](Screenshots/KPI_section.png)
