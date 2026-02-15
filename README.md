@@ -1,7 +1,10 @@
-# Sales & Revenue Dashboard
+# Full-Stack Business Intelligence Project: Sales & Revenue Analysis
+
+This project demonstrates end-to-end Business Intelligence development using SQL, Python, and Tableau to transform raw data into actionable insights.
 
 ## Description
-A dashboard showing sales performance using SQL, Python, and Tableau. Tracks total revenue, orders, average order value, top products, and daily revenue trends.
+This project builds a complete sales analytics workflow starting from database design in SQL to an interactive Tableau dashboard.
+The goal was to simulate how a company stores, analyzes, and visualizes sales data to track revenue and performance.
 
 ## Technologies
 - SQL (MySQL): Schema design, data insertion, and analytical queries
